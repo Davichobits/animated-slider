@@ -13,9 +13,9 @@ prev.addEventListener('click', function(){
 
 const cities = [
   {
-    "url": "https://i.ibb.co/qCkd9jS/img1.jpg",
-    "name": "Switzerland",
-    "description": "X-Dev, Transforming code into visual poetry..!"
+    "url": "./assets/1_warhammer.jpg",
+    "name": "Warhammer",
+    "description": " Juego de guerra ambientado en un futuro distópico, en donde se mezclan elementos de la ciencia ficción con elementos de la fantasía heroica."
   },
   {
     "url": "https://i.ibb.co/jrRb11q/img2.jpg",
